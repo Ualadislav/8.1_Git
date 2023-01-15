@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «8.1. Git»
+    # Домашнее задание к занятию «8.1. Git»
 
 ### Задание 1
 
@@ -36,6 +36,7 @@ https://github.com/Ualadislav/HomeWork
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/Ualadislav/HomeWork/blob/main/.gitingore
 ---
 
 ### Задание 3
@@ -50,6 +51,8 @@ https://github.com/Ualadislav/HomeWork
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+![](./switch_merge.png)
+![](./log.png)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
